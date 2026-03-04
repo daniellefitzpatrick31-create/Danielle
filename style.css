@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: body {
     font-family: 'Poppins', sans-serif;}
-    background-color: linear-gradient(180deg, #ffb6c1, #ffe4e1); /* soft pink fade */;
+    background-color: #ffb6c1, #ffe4e1); /* soft pink fade */;
 }
 
 header {
