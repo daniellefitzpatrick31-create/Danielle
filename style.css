@@ -1,33 +1,32 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #eaf6ff;
+    background-color: #121212;
+    color: white;
 }
 
 header {
-    background: #0077b6;
-    color: white;
+    background: #1f1f1f;
     text-align: center;
     padding: 2rem;
 }
 
 .project-card {
-    background: white;
+    background: #1e1e1e;
     padding: 1rem;
     margin-bottom: 1rem;
     border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0,119,182,0.2);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.6);
 }
 
 .project-card a {
     text-decoration: none;
-    color: #0077b6;
+    color: #00bfff;
     font-weight: bold;
 }
 
 footer {
     text-align: center;
     padding: 1rem;
-    background: #0077b6;
-    color: white;
+    background: #1f1f1f;
 }
