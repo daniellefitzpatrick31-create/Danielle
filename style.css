@@ -1,11 +1,11 @@
-/* Main site font for body and nav tabs */
+/* Main site font */
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     background-color: #fff0f5; /* soft pink background */
 }
 
-/* Only the name uses Dancing Script */
+/* Only your name uses Dancing Script */
 header h1 {
     font-family: 'Dancing Script', cursive;
     font-size: 3rem;
@@ -20,7 +20,7 @@ header {
     padding: 2rem 1rem;
 }
 
-/* Navigation bar styling */
+/* Nav bar styling */
 nav {
     margin-top: 1rem;
 }
@@ -39,7 +39,6 @@ nav {
     text-decoration: none;
     color: white;
     font-weight: bold;
-    font-family: 'Poppins', sans-serif; /* force Poppins for nav tabs */
 }
 
 .nav-links a:hover {
@@ -67,7 +66,7 @@ section {
     font-weight: bold;
 }
 
-/* Footer styling */
+/* Footer */
 footer {
     text-align: center;
     padding: 1rem;
